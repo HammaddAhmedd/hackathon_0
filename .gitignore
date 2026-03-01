@@ -1,0 +1,6 @@
+.obsidian/
+.claude/
+Logs/
+logs/
+__pycache__/
+*.pyc
